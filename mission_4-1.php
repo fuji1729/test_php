@@ -108,7 +108,7 @@ if (!empty($edit_num) && !empty($edit_name) && !empty($edit_comment)) {
 ?>
 
 
-
+<!-コンテンツ（掲示板）->
 <br>
 <div class="title">
 <h1> 釣り人専用掲示板 </h1>
